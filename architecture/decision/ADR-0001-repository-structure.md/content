@@ -1,0 +1,36 @@
+# ADR-0001 Repository Structure
+
+## Status
+Accepted
+
+## Context
+
+This repository will grow over several months and eventually contain
+notes, projects, diagrams, interview preparation, and system designs.
+
+Without a consistent structure it would become difficult to navigate.
+
+## Decision
+
+Organize the repository into
+
+- Fundamentals
+- Technologies
+- Projects
+- Architecture
+- Interview Prep
+- Documentation
+
+Every technology follows a common documentation template.
+
+## Consequences
+
+Pros
+
+- Consistent
+- Easy navigation
+- Scalable
+
+Cons
+
+- Slightly more work initially
