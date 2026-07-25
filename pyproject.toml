@@ -1,0 +1,9 @@
+[project]
+name = "data-engineering-mastery"
+version = "0.1.0"
+description = "A complete journey from Senior to Staff Data Engineer"
+requires-python = ">=3.13"
+dependencies = []
+
+[dependency-groups]
+dev = ["black", "ruff", "pytest", "jupyter", "ipykernel", "mypy"]

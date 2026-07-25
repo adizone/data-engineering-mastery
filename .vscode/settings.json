@@ -1,0 +1,8 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.formatOnSave": true,
+    "editor.rulers": [88],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.testing.pytestEnabled": true
+}
