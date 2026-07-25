@@ -25,13 +25,14 @@ This repository focuses not only on **how** technologies work but also on **why*
 
 ## Repository Structure
 
-text
+```text
 fundamentals/
 technologies/
 projects/
 system-design/
 interview-prep/
 architecture/
+```
 
 
 ---
